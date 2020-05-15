@@ -1,0 +1,34 @@
+.category {
+	overflow: hidden;
+}
+
+.categoryTitle {
+	width: 100px;
+	float: left;
+}
+
+.categoryRow {
+	overflow: hidden;
+}
+
+.tableElement {
+	width: 100px;
+	text-align: left;
+	text-decoration: none;
+}
+
+.addTransaction {
+	background-color: green;
+	color: white;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+button {
+	border: none;
+}
+
+h2 {
+	padding: 0px;
+}
+
